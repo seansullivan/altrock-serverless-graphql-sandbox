@@ -1,5 +1,5 @@
 {
-  "name": "altrock-resolver-sandbox",
+  "name": "altrock-serverless-graphql-sandbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "./node_modules/.bin/sls offline"
   },
   "author": "Sean Sullivan <seansulli@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "apollo-server-lambda": "^2.4.8",
     "dataloader": "^1.4.0",

@@ -1,8 +1,4 @@
-# Welcome to Serverless!
-#
-# This file is the main config file for your service.
-# It's very minimal at this point and uses default values.
-service: altrock-resolver-sandbox
+service: altrock-serverless-graphql-sandbox
 
 provider:
   name: aws
