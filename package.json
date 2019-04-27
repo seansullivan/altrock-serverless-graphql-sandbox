@@ -1,0 +1,24 @@
+{
+  "name": "altrock-resolver-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "node --inspect ./node_modules/.bin/sls offline --skipCacheInvalidation -s dev",
+    "start": "./node_modules/.bin/sls offline"
+  },
+  "author": "Sean Sullivan <seansulli@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "apollo-server-lambda": "^2.4.8",
+    "dataloader": "^1.4.0",
+    "graphql": "^14.2.1",
+    "lodash": "^4.17.11",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "serverless": "^1.41.1",
+    "serverless-offline": "^4.9.4"
+  }
+}

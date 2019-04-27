@@ -1,0 +1,83 @@
+{
+  "albums": [
+    {
+      "id": 0,
+      "artist": 0,
+      "title": "In Utero",
+      "release_date": "September 21, 1993",
+      "tracks": [0, 1, 2]
+    },
+    {
+      "id": 1,
+      "artist": 1,
+      "title": "Dookie",
+      "release_date": "February 1, 1994",
+      "tracks": [3, 4, 5]
+    },
+    {
+      "id": 2,
+      "artist": 2,
+      "title": "Superunknown",
+      "release_date": "March 8, 1994",
+      "tracks": [6, 7, 8]
+    }
+  ],
+  "artists": [
+    {
+      "id": 0,
+      "name": "Nirvana",
+      "hometown": "Seattle, WA",
+      "genres": ["alternative", "grunge"]
+    },
+    {
+      "id": 1,
+      "name": "Green Day",
+      "hometown": "Berkeley, CA",
+      "genres": ["alternative", "punk"]
+    },
+    {
+      "id": 2,
+      "name": "Soundgarden",
+      "hometown": "Seattle, WA",
+      "genres": ["alternative", "grunge"]
+    }
+  ],
+  "tracks": [
+    {
+      "id": 0,
+      "title": "Serve the Servants"
+    },
+    {
+      "id": 1,
+      "title": "Scentless Apprentice"
+    },
+    {
+      "id": 2,
+      "title": "Heart-Shaped Box"
+    },
+    {
+      "id": 3,
+      "title": "Burnout"
+    },
+    {
+      "id": 4,
+      "title": "Having a Blast"
+    },
+    {
+      "id": 5,
+      "title": "Chump"
+    },
+    {
+      "id": 6,
+      "title": "Let Me Drown"
+    },
+    {
+      "id": 7,
+      "title": "My Wave"
+    },
+    {
+      "id": 8,
+      "title": "Fell On Black Days"
+    }
+  ]
+}
